@@ -1,0 +1,33 @@
+
+body{
+    background-color: black;
+
+}
+.base {
+
+    width: 400px;
+    height: 200px;
+    padding: 1px 20px;
+    box-sizing: border-box;
+    background: url(./backgorund.png) no-repeat;
+    background-size: cover;
+    margin-top: 200px;
+    margin-left: 400px;
+
+}
+
+a{
+text-decoration: none;
+color: black;
+}
+
+.instagram{
+ list-style-image: url(./Insta.png);
+
+}
+.twitter{
+    list-style-image: url(./Twitter.png);
+}
+.youtube{
+    list-style-image: url(./Youtube.png);
+}
